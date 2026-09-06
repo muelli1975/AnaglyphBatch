@@ -4,11 +4,15 @@
 
 AnaglyphBatch creates anaglyph images from side-by-side stereo images using a selection of different methods for direct comparison. Multiple methods can be selected at once, and batch processing of files and folders is supported.
 
+## Download
+
+For normal use, download the ready-to-use Windows package from [GitHub Releases](https://github.com/muelli1975/AnaglyphBatch/releases).
+
+The release ZIP is fully portable and contains both language versions plus all required runtime tools, including the precompiled CIELab Anaglyph Tool with its OpenCV DLLs, FFmpeg, libjpeg-turbo (`cjpeg`) and ExifTool. No compilation or additional installation is required.
+
 ## Requirements
 
 - Windows
-
-The ready-to-use release package contains all required third-party tools in the `tools` folder and needs no additional installation.
 
 The normal GitHub source repository contains the batch scripts, documentation and license notices, but not the large third-party binaries. See [TOOLS.md](TOOLS.md) for the expected tool layout.
 
@@ -71,7 +75,7 @@ The anaglyphs are treated as final output and are therefore stored as efficientl
 
 The AnaglyphBatch batch scripts and original documentation by Christoph Müller are licensed under the MIT License.
 
-The package also contains unmodified third-party software:
+The release package also contains third-party software:
 
 - FFmpeg (GPL build)
 - libjpeg-turbo (`cjpeg`)
