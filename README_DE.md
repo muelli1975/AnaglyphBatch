@@ -4,6 +4,8 @@
 
 AnaglyphBatch erzeugt Anaglyphen aus Side-by-Side-Stereobildern mit einer Auswahl verschiedener Verfahren zur direkten Vergleichbarkeit. Mehrfachauswahl und Batch-Verarbeitung von Dateien und Ordnern werden unterstützt.
 
+[![AnaglyphBatch 1.0](docs/screenshots/AnaglyphBatch.png)](docs/screenshots/AnaglyphBatch.png)
+
 ## Download
 
 Für die normale Nutzung das fertige Windows-Paket unter [GitHub Releases](https://github.com/muelli1975/AnaglyphBatch/releases) herunterladen.
