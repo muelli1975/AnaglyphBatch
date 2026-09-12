@@ -4,6 +4,8 @@
 
 AnaglyphBatch creates anaglyph images from side-by-side stereo images using a selection of different methods for direct comparison. Multiple methods can be selected at once, and batch processing of files and folders is supported.
 
+[![AnaglyphBatch 1.0](docs/screenshots/AnaglyphBatch.png)](docs/screenshots/AnaglyphBatch.png)
+
 ## Download
 
 For normal use, download the ready-to-use Windows package from [GitHub Releases](https://github.com/muelli1975/AnaglyphBatch/releases).
