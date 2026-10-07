@@ -12,6 +12,8 @@ For normal use, download the ready-to-use Windows package from [GitHub Releases]
 
 The release ZIP is fully portable and contains both language versions plus all required runtime tools, including the precompiled CIELab Anaglyph Tool with its OpenCV DLLs, FFmpeg, libjpeg-turbo (`cjpeg`) and ExifTool. No compilation or additional installation is required.
 
+A separately compiled CIELab PNG update is prepared by the [native tool workflow](https://github.com/muelli1975/AnaglyphBatch/actions/workflows/cielab.yml). It uses the original calculation without OpenCV DLLs and must pass comparison with the Batch 1.0 executable before becoming available as a development artifact. See [TOOLS.md](TOOLS.md) for source provenance, corresponding sources and installation. The published 1.0 ZIP and both batch scripts remain unchanged.
+
 ## Requirements
 
 - Windows
