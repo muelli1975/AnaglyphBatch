@@ -1,0 +1,14 @@
+{
+  "repo": "muelli1975/AnaglyphBatch",
+  "app": "AnaglyphBatch",
+  "tag": "1.0",
+  "release_id": 383550514,
+  "assets": [
+    {
+      "name": "AnaglyphBatch_1.0.zip",
+      "id": 547079168,
+      "digest": "sha256:f267aff1cef4aa1e3383c00afb638307d41c145b20f27b502884bd7d3fe3de88",
+      "root": ""
+    }
+  ]
+}
