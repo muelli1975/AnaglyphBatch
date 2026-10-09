@@ -23,3 +23,7 @@ Downloads:
 https://github.com/muelli1975/AnaglyphBatch/releases
 
 Im normalen Repository bleiben die großen Drittanbieter-Binärdateien bewusst außerhalb des Source-Baums. Die erwartete Struktur und die Quellen sind in `TOOLS.md` dokumentiert; die zugehörigen Lizenztexte und Hinweise liegen unter `licenses`.
+
+Portable packages contain a stable `AnaglyphBatch` folder. Only the download archive name includes the version; the DE/EN batch filenames keep their language suffixes.
+
+Portable Pakete enthalten den festen Ordner `AnaglyphBatch`. Nur der Downloadarchivname enthält die Version; die Batch-Dateinamen behalten ihre Sprachsuffixe DE/EN.
