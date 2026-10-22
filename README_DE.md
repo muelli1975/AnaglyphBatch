@@ -1,6 +1,6 @@
 # AnaglyphBatch 1.0
 
-[English documentation](README.md)
+[Downloads und SHA-256](https://github.com/muelli1975/AnaglyphBatch/releases/tag/1.0) · [English](README.md)
 
 AnaglyphBatch erzeugt Anaglyphen aus Side-by-Side-Stereobildern mit einer Auswahl verschiedener Verfahren zur direkten Vergleichbarkeit. Mehrfachauswahl und Batch-Verarbeitung von Dateien und Ordnern werden unterstützt.
 
@@ -11,8 +11,6 @@ AnaglyphBatch erzeugt Anaglyphen aus Side-by-Side-Stereobildern mit einer Auswah
 Für die normale Nutzung das fertige Windows-Paket unter [GitHub Releases](https://github.com/muelli1975/AnaglyphBatch/releases) herunterladen.
 
 Die Release-ZIP ist vollständig portabel und enthält beide Sprachfassungen sowie alle benötigten Laufzeitprogramme, einschließlich des fertig kompilierten CIELab Anaglyph Tools mit den benötigten OpenCV-DLLs, FFmpeg, libjpeg-turbo (`cjpeg`) und ExifTool. Es ist weder eine Kompilierung noch eine zusätzliche Installation erforderlich.
-
-Ein separat kompilierter CIELab-PNG-Neubau wird durch den [nativen Tool-Workflow](https://github.com/muelli1975/AnaglyphBatch/actions/workflows/cielab.yml) vorbereitet. Er verwendet die ursprüngliche Berechnung ohne OpenCV-DLLs und muss den Vergleich mit der Batch-1.0-Datei bestehen, bevor er als Entwicklungsartefakt bereitsteht. Quellen, passendes Quellenarchiv und Einbau stehen in [TOOLS.md](TOOLS.md). Das veröffentlichte 1.0-ZIP und beide Batch-Skripte bleiben unverändert.
 
 ## Voraussetzungen
 
